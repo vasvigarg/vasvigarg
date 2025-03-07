@@ -1,12 +1,12 @@
 [![MasterHead](img.gif)](https://vasvigarg.io)
 <h1 align="center">Hi 👋, I'm Vasvi Garg</h1>
-<h3 align="center">An open source enthusiast from Gurgaon, India</h3>
+<h3 align="center">A Web3 enthusiast from Gurgaon, India</h3>
 
-- 🔭 I’m currently working on **Dart and Flutter.**
+- 🔭 I’m currently working on **Next.js & React**
 
-- 🌱 I’m currently learning **Django.**
+- 🌱 I’m currently learning **Frontend for dApps**
 
-- 🤝 I’m looking for help with **Solidity, Blockchain and Smart Contracts.**
+- 🤝 I’m looking for help with **Cryptography and Smart Contract Auditing.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
